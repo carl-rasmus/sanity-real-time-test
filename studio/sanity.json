@@ -1,12 +1,12 @@
 {
   "root": true,
+  "api": {
+    "projectId": "wpj4l0ff",
+    "dataset": "production"
+  },
   "project": {
     "name": "squizzy",
     "basePath": "/studio"
-  },
-  "api": {
-    "projectId": "puj7p168",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
